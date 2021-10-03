@@ -1,19 +1,7 @@
 package setup;
 
 public class Fourth {
-    public static void main(String[] args) {
-        System.out.println("5");
+    //this is in master branch
 
-    }
-    // new code
-
-    //set up fourth class
-
-    //okay next line
-
-    //some more code
-public void m(){
-    System.out.println(6);
-}
-
+    // new lines, maybe conflict
 }
