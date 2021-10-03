@@ -5,4 +5,6 @@ public class Fourth {
 
     // new lines, maybe conflict
     // added new line
+
+    // line 4
 }
