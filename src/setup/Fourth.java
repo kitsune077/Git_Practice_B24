@@ -1,6 +1,9 @@
 package setup;
 
 public class Fourth {
+    public static void main(String[] args) {
+        System.out.println("5");
+    }
     // new code
 
     //set up fourth class
@@ -8,4 +11,6 @@ public class Fourth {
     //okay next line
 
     //some more code
+
+
 }
